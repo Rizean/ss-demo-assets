@@ -1,0 +1,2 @@
+# Disclaimer
+The assets (images, stylesheets, fonts, etc.) used in this demo are of unknown licensing origin. As such, they should not be used for any commercial purpose, redistributed, or republished without the necessary permissions. The assets are included in this repository solely for the purpose of illustrating a private demonstration, and no claim of ownership or copyright is made by the repository owner. If you are the copyright holder of any of these assets and wish for them to be removed, please get in touch.
